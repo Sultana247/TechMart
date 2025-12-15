@@ -6,7 +6,7 @@ const Header = (data) => {
     
     return (
         <div>
-           <div className="navbar bg-green-500 text-white p-6 montserrat-font">
+           <div className="navbar bg-green-700 text-white p-6 montserrat-font">
                 <div className="flex-1">
                     <div className='flex md:gap-32 lg:gap-96'>
                         <a className="md:text-2xl lg:text-5xl font-bold">TechMart</a>
@@ -30,7 +30,7 @@ const Header = (data) => {
                     </div>
                     <ul
                         tabIndex="-1"
-                        className="menu menu-sm dropdown-content bg-green-500 rounded-box z-1 mt-3 w-52 p-2 shadow">
+                        className="menu menu-sm dropdown-content bg-green-700 rounded-box z-1 mt-3 w-52 p-2 shadow">
                         <li>
                         <a className="justify-between">
                             Profile
