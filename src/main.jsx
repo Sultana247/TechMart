@@ -10,6 +10,7 @@ import Home from './component/Home.jsx';
 const router = createBrowserRouter([
   {
     path:'/',
+    loader:()=>fetch('navbar.json'),
     element:<Home></Home>,
     children:[
       {

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "gadget_name": "Desktop",
+    "submenu": [
+      {
+        "name": "Desktop PC",
+        "submenu": ["Gaming PC", "Brand PC", "All-in-One PC"]
+      },
+      {
+        "name": "Components",
+        "submenu": ["Processor", "Motherboard", "RAM", "Graphics Card"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "gadget_name": "Laptop",
+    "submenu": [
+      {
+        "name": "Laptop Types",
+        "submenu": ["Gaming Laptop", "Business Laptop", "Student Laptop"]
+      },
+      {
+        "name": "Laptop Accessories",
+        "submenu": ["Laptop Bag", "Cooling Pad", "Laptop Stand"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "gadget_name": "Monitor",
+    "submenu": [
+      {
+        "name": "Monitor Size",
+        "submenu": ["19 Inch", "22 Inch", "24 Inch", "27 Inch"]
+      },
+      {
+        "name": "Monitor Type",
+        "submenu": ["Gaming Monitor", "Curved Monitor", "4K Monitor"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "gadget_name": "Processor",
+    "submenu": [
+      {
+        "name": "Intel",
+        "submenu": ["Core i3", "Core i5", "Core i7", "Core i9"]
+      },
+      {
+        "name": "AMD",
+        "submenu": ["Ryzen 3", "Ryzen 5", "Ryzen 7", "Ryzen 9"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "gadget_name": "Motherboard",
+    "submenu": [
+      {
+        "name": "Intel Motherboard",
+        "submenu": ["H610", "B660", "Z690"]
+      },
+      {
+        "name": "AMD Motherboard",
+        "submenu": ["B450", "B550", "X570"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "gadget_name": "Graphics Card",
+    "submenu": [
+      {
+        "name": "NVIDIA",
+        "submenu": ["GTX Series", "RTX 3000 Series", "RTX 4000 Series"]
+      },
+      {
+        "name": "AMD",
+        "submenu": ["RX 500", "RX 6000", "RX 7000"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "gadget_name": "RAM",
+    "submenu": [
+      {
+        "name": "Desktop RAM",
+        "submenu": ["DDR4", "DDR5"]
+      },
+      {
+        "name": "Laptop RAM",
+        "submenu": ["DDR4 SODIMM", "DDR5 SODIMM"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "gadget_name": "Storage",
+    "submenu": [
+      {
+        "name": "SSD",
+        "submenu": ["SATA SSD", "NVMe SSD"]
+      },
+      {
+        "name": "HDD",
+        "submenu": ["1TB HDD", "2TB HDD", "4TB HDD"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "gadget_name": "Power Supply",
+    "submenu": [
+      {
+        "name": "Wattage",
+        "submenu": ["450W", "550W", "650W", "750W"]
+      },
+      {
+        "name": "Certification",
+        "submenu": ["80+ Bronze", "80+ Gold"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "gadget_name": "Casing",
+    "submenu": [
+      {
+        "name": "Casing Type",
+        "submenu": ["ATX Case", "Micro ATX", "Mini ITX"]
+      },
+      {
+        "name": "Features",
+        "submenu": ["RGB Case", "Glass Panel Case"]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "gadget_name": "Keyboard",
+    "submenu": [
+      {
+        "name": "Keyboard Type",
+        "submenu": ["Mechanical Keyboard", "Membrane Keyboard"]
+      },
+      {
+        "name": "Usage",
+        "submenu": ["Gaming Keyboard", "Office Keyboard"]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "gadget_name": "Mouse",
+    "submenu": [
+      {
+        "name": "Mouse Type",
+        "submenu": ["Gaming Mouse", "Wireless Mouse"]
+      },
+      {
+        "name": "DPI Range",
+        "submenu": ["Up to 1600 DPI", "Up to 3200 DPI"]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "gadget_name": "Headphone",
+    "submenu": [
+      {
+        "name": "Headphone Type",
+        "submenu": ["Gaming Headset", "Studio Headphone"]
+      },
+      {
+        "name": "Connection",
+        "submenu": ["Wired", "Wireless"]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "gadget_name": "Printer",
+    "submenu": [
+      {
+        "name": "Printer Type",
+        "submenu": ["Inkjet Printer", "Laser Printer"]
+      },
+      {
+        "name": "Usage",
+        "submenu": ["Home Printer", "Office Printer"]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "gadget_name": "Router",
+    "submenu": [
+      {
+        "name": "Router Type",
+        "submenu": ["WiFi 5 Router", "WiFi 6 Router"]
+      },
+      {
+        "name": "Usage",
+        "submenu": ["Home Router", "Office Router"]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "gadget_name": "Networking",
+    "submenu": [
+      {
+        "name": "Devices",
+        "submenu": ["Switch", "Access Point", "Repeater"]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "gadget_name": "Camera",
+    "submenu": [
+      {
+        "name": "Camera Type",
+        "submenu": ["Webcam", "DSLR Camera"]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "gadget_name": "Accessories",
+    "submenu": [
+      {
+        "name": "Accessories Type",
+        "submenu": ["USB Hub", "Cable", "Converter", "Power Strip"]
+      }
+    ]
+  }
+]
