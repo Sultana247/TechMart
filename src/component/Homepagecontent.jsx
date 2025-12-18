@@ -6,7 +6,7 @@ const Homepagecontent = () => {
     const currentMonth =["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     return (
         <div className='mt-25'>
-            <div className='max-w-6xl mx-auto rounded-4xl shadow-sm text-center p-5'>
+            <div className='max-w-6xl mx-auto rounded-4xl shadow-sm text-center p-3'>
                 <p>{todayName[today.getDay()]}, {today.getDate() } {currentMonth[today.getMonth()]}</p>
 
             </div>
